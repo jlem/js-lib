@@ -1,0 +1,25 @@
+{
+  "name": "js-lib",
+  "version": "1.0.0",
+  "description": "First library/package",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jlem/js-lib.git"
+  },
+  "keywords": [
+    "jlem"
+  ],
+  "author": "Jon <agmlauncher@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jlem/js-lib/issues"
+  },
+  "homepage": "https://github.com/jlem/js-lib",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
